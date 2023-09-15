@@ -1,0 +1,28 @@
+.row .custom-cell {
+  font-family: "Poppins Regular";
+}
+
+.row:hover {
+  background-color: #5d5d5d;
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="purple" /></svg>'),
+    auto;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #dcdcdc;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(144, 17, 156);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}

@@ -1,0 +1,102 @@
+.header {
+  font-size: 25px;
+  padding-top: 15px;
+  font-family: "Poppins Regular", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-size: 30px;
+  font-family: "Poppins Light", sans-serif;
+  text-align: center;
+  color: white;
+}
+.subtext {
+  font-size: 24px;
+}
+.form-page {
+  margin-top: 180px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+}
+
+.form-container {
+  text-align: center;
+}
+
+.form-card {
+  width: 500px;
+  height: 550px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(122, 43, 206);
+  /* color: rgb(87, 12, 152); */
+  font-size: 16px;
+  font-weight: 900;
+  border-radius: 15px;
+}
+.radio-button-spacing {
+  width: 30px;
+}
+
+.MuiSvgIcon-root {
+  font-size: 25px !important;
+}
+
+.MuiButton-contained {
+  border-radius: 50px !important;
+}
+
+.gender-field {
+  display: flex;
+  justify-content: center;
+
+  flex-direction: column;
+  align-items: center;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  margin-right: 5px;
+  margin-left: 10px;
+  color: rgb(122, 43, 206);
+}
+
+.welcome {
+  overflow: hidden;
+
+  white-space: nowrap;
+  margin: 0;
+  letter-spacing: 0.15em;
+  animation: fadeIn 1s ease forwards;
+}
+
+.welcome {
+  font-size: 24px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .welcome {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .welcome {
+    font-size: 16px;
+  }
+}

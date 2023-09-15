@@ -1,0 +1,42 @@
+.title {
+  background: linear-gradient(to right, #006c93, #ff00e6);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.message {
+  font-size: 18px;
+  font-family: "Poppins";
+}
+.content {
+  height: 295px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.box {
+  word-wrap: break-word;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+.top-info {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.person {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.delete {
+  margin-top: 8px;
+}

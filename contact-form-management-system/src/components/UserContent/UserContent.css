@@ -1,0 +1,14 @@
+.title {
+  background: linear-gradient(to right, #2c7b98, #ff00e6);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.box {
+  word-wrap: break-word;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}

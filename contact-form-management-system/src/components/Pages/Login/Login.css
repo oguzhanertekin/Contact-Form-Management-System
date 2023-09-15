@@ -1,0 +1,63 @@
+.left-side {
+  padding: 30px;
+  height: 100%;
+  color: black;
+}
+
+.title p {
+  font-family: "Popins Black", sans-serif;
+  font-size: 80px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-shadow: 0 0 50px rgb(226, 176, 219);
+  background: linear-gradient(to right, #e9b5ea, #770197);
+  -webkit-background-clip: text;
+  color: transparent;
+  opacity: 0;
+  animation: fadeIn 1s ease forwards;
+}
+
+.btn {
+  color: transparent;
+  opacity: 0;
+  animation: fadeIn 3s ease forwards;
+}
+
+.text p {
+  font-size: 33px;
+  color: white;
+
+  opacity: 0;
+  animation: fadeIn 2s ease forwards;
+}
+
+.logo p {
+  opacity: 0;
+  display: none;
+  color: white;
+  font-size: 20px;
+}
+.logo:hover p {
+  opacity: 1;
+  display: block;
+}
+.logo {
+  margin-top: 60px;
+  position: relative;
+  transition: transform 1s ease;
+}
+
+.logo:hover {
+  transform: scale(1.15);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
