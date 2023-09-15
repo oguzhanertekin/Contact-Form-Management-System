@@ -43,5 +43,19 @@ _Welcome Page_
 
 _Messages Page_  (The row of unread messages is shown in red. Messages on other pages can be viewed with the bar at the bottom. [Pagination])
 ![4](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/121067e4-0ab6-4af2-8454-ad848089e969)
+_Users Page_ 
+![5](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/b8e028c1-4a13-45dd-a900-b96939a106ac)
+_Add Reader_
+![6](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/2fbdff85-43cf-4f38-ae1b-067ac7dc7052)
+_Edit Reader_
+![7](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/9f092717-51fc-4c43-9f8f-5bc6db6cd601)
+_Reports_
+![8](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/32965cd1-8556-4a31-9039-ee133bb7e142)
+_Navbar_
+![image](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/b357bab0-09e3-4750-b994-fb95537e6494)
+_Message notifications after logging into the system_
+![12](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/d4e1cb83-1749-4a96-9e74-a5c862526e17)
+
+
 
 
