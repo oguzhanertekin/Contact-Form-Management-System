@@ -18,7 +18,7 @@ CFMS has 3 different user roles: admin, reader and user. Users can enter the for
 · Language Management (TR/EN)
 
 ## Technologies used in the project
-· React.js
+· React.js <br>
 · HTML/CSS/Javascript
 · WebSocket
 · Electron
