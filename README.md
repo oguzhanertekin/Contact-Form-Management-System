@@ -34,7 +34,7 @@ CFMS has 3 different user roles: admin, reader and user. Users can enter the for
 ## Screenshots
  _Form Panel_
 ![1](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/d237f426-ef96-4db8-8b59-04a56e5b2b77)
-<hr>
+&nbsp;
 _Admin Panel_
 ![2](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/c8b281da-b1d1-4144-b3e0-b89419204afa)
 <hr>
