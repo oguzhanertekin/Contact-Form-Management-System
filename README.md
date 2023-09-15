@@ -54,7 +54,8 @@ _Reports_
 _Navbar_
 ![image](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/b357bab0-09e3-4750-b994-fb95537e6494)
 _Message notifications after logging into the system_
-![12](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/d4e1cb83-1749-4a96-9e74-a5c862526e17)
+![image](https://github.com/oguzhanertekin/Contact-Form-Management-System/assets/68961575/73307e0d-982a-445b-afc0-69c2863c3b2e)
+
 
 
 
